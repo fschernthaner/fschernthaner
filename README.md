@@ -2,7 +2,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fschernthaner)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fschernthaner)](https://github.com/anuraghazra/github-readme-stats)
 
-![image]({[BadgeURLHere](https://github-profile-trophy.vercel.app/?username={fschernthaner})})
+![image]({(https://github-profile-trophy.vercel.app/?username={fschernthaner})})
 
 <!--
 **fschernthaner/fschernthaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
