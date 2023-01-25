@@ -10,7 +10,7 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fschernthaner&theme=monokai" />
 </p>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <div align="center">
@@ -28,4 +28,14 @@
   <img src="https://user-images.githubusercontent.com/43292234/179796802-6e14d467-4cf8-4894-b53e-b565d4e5372f.gif" width="187">
 </div>
 
+<!--🏆TROPHYGIF-->
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+ 
+ <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>
+
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
